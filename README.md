@@ -1,5 +1,14 @@
-# Breast-Cancer-Wisconsin-Analysis
+# Breast Cancer Diagnosis Prediction: Leveraging Machine Learning
+
+## Project Overview
 
 Delve into the realm of breast cancer diagnosis prediction with a machine learning model. Using the Breast Cancer Wisconsin dataset, the project aims to predict the type of tumor a patient may have, aiding in early detection and treatment planning.
 
 Harnessing the power of machine learning algorithms, the model analyzes various features extracted from diagnostic images to make accurate predictions. Through meticulous data preprocessing, feature engineering, and model training, a reliable tool for healthcare professionals is developed to assist in diagnosing breast cancer.
+
+## Data Source
+
+The primary dataset used for this analysis is "Breast Cancer Wisconsin (Diagnostic) -wbc.csv" file.
+
+## Tools Used
+Python
